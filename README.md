@@ -14,6 +14,8 @@ Now when you load the page, you should see two different hands with a randomly c
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/44c3e637-135f-4350-a106-6ff71723b35d/deploy-status)](https://app.netlify.com/sites/rwpokegame/deploys)
 
+![picture 1](images/a361abc8e7dc53aac04722b5e7e49f65082b67346a762edf7cb5aedc40ba0a8b.png)  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
