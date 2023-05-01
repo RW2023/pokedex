@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap');
+
+/* CSS Reset */
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* End of CSS Reset */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Pokidex-card{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+
+h1, h4{
+  text-align: center;
+}
+
+h4{
+  color: #000;
+  
+}
+
+
+
+
+.Pokedex-winner{
+  color: #4caf50;
+}
+
+.Pokedex-loser{
+  color: #e91e63;
+}

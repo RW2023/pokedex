@@ -1,0 +1,12 @@
+/* CSS Reset */
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* End of CSS Reset */
+body{
+  background-color: #eceff1;
+  color: #4d4d4d;
+}

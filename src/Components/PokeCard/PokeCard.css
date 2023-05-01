@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap');
+
+:root {
+    --text: #EDF1D6;
+    --accent: #9DC08B;
+    --border: #609966;
+    --background: #40513B;
+}
+
+/* CSS Reset */
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* End of CSS Reset */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+
+img {
+    size: 300%;
+}
+
+.PokeCard {
+    font-family: 'Poppins', sans-serif;
+    width: 250px;
+    padding: 10px;
+    margin: 1rem;
+    box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
+    background-color: white;
+    border-radius: 3px ;
+}
+
+.PokeCard-data{
+    font-size: 80%;
+}
