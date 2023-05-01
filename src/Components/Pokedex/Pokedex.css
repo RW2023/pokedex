@@ -17,6 +17,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+body{
+  background-color: #405461;
+}
+
 .Pokidex-card{
   display: flex;
   justify-content: space-evenly;
@@ -34,7 +38,7 @@ h1, h4{
 }
 
 h4{
-  color: #000;
+  color: #eceff1;
   
 }
 
