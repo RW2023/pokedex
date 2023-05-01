@@ -1,10 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap');
 
 :root {
-    --text: #EDF1D6;
+   
     --accent: #9DC08B;
     --border: #609966;
     --background: #40513B;
+    --text-color: #eceff1;
+        --background-color: #eceff1;
+            --accent-color-1: #2E86C1;
+            --accent-color-2: #27AE60;
+            --accent-color-3: #F39C12;
+            --accent-color-4: #8E44AD;
+            --neutral-color-1: #34495E;
+            --neutral-color-2: #E67E22;
+            --neutral-color-3: #7F8C8D;
+            --neutral-color-4: #BDC3C7;
 }
 
 /* CSS Reset */
@@ -27,7 +37,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 250px;
-    background-color: #eceff1;
+    background-color: var(--neutral-color-3);
     border-radius: 3px;
 }
 img {
